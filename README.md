@@ -1,4 +1,6 @@
 
- Movie data (Kaggle)
- https://www.kaggle.com/c/word2vec-nlp-tutorial/code
- There are submission => look at their code to optimize
+# NLP Playground
+Testing and learning NLP
+
+## Moviedata
+First attempt, basic logreg and sentiment analysis. ~90% accuracy.
